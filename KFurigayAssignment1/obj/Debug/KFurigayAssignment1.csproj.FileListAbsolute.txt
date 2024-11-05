@@ -1,0 +1,22 @@
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.exe.config
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.exe
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.pdb
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.MainForm.resources
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.Properties.Resources.resources
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.GenerateResource.cache
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.exe
+C:\Users\Kin\Desktop\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.pdb
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.exe.config
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.exe
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\bin\Debug\KFurigayAssignment1.pdb
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.AssemblyReference.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.SuggestedBindingRedirects.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.MainForm.resources
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.Properties.Resources.resources
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.GenerateResource.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.csproj.CoreCompileInputs.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.exe
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 1\KFurigayAssignment1\KFurigayAssignment1\obj\Debug\KFurigayAssignment1.pdb
